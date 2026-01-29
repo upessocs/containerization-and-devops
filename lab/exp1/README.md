@@ -3,9 +3,12 @@
 
 Object: ....
 
+sdfas _as*df_ `docker ps ` and `docker rmi`
 
-```bash
+```java
 docker ps
+
+
 docker images
 ```
 
@@ -26,8 +29,8 @@ we user `docker ps` for getting list of running containers
 > sdfsgdefinition in blockquote
 
 | first | second |
-|:--- | :---:|
-| first 23 | second |
+|:-------: | ------:|
+| first 23 first 23first 23 |  second second second second second |
 | firstvs   | second |
 | first | sdf second |
 | first | second ssdf|
